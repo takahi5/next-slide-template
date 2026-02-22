@@ -1,0 +1,4 @@
+interface:
+  display_name: "Add Next Slide"
+  short_description: "Add slides from text/PDF/image inputs"
+  default_prompt: "Use $add-next-slide to add a new slide from my instructions or attachments."
